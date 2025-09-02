@@ -4,7 +4,7 @@
 ## Overview
 The coffee market in New York is vibrant and fast-paced, with customers’ preferences shifting across seasons, products, and locations. For Maven Roasters, a local coffee chain with three city outlets, understanding not just what sells but when and why is key to driving sustainable growth.  
 
-This project analyzed six months of sales data to uncover peak periods, top-selling products, and customer trends across the three locations. Using Power BI, the findings were visualized clearly to show how customers engage with Maven Roasters—by product choice, purchase time, and store location—offering insights to boost revenue, optimize inventory, and align strategies with demand.
+This project analyzed six months of sales data across three locations, using Power BI to highlight peak periods, best-selling products, and customer trends—delivering insights to boost revenue, optimize inventory, and align strategies with demand.
 
 ## Business Objectives
 The store manager wants to assess sales performance over the past six months and identify areas for operational improvement. The following questions guide this analysis:
