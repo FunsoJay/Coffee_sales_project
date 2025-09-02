@@ -2,7 +2,7 @@
 ![]()
 
 ## Overview
-This project involved reviewing six months of coffee sales data across three New York locations to identify peak sales periods, top-performing products, and business performance trends—delivering insights to support revenue growth and strategic decision-making. Excel for analysis and creating visuals.
+This project involved reviewing six months of coffee sales data for Maven Roasters, across three New York locations to identify peak sales periods, top-performing products, and business performance trends—delivering insights to support revenue growth and strategic decision-making. Excel for analysis and creating visuals.
 
 ## Business Objectives
 The store manager wants to assess sales performance over the past six months and identify areas for operational improvement. The following questions guide this analysis.
