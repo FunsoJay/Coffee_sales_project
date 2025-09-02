@@ -2,7 +2,8 @@
 ![](https://github.com/FunsoJay/Coffee_sales_project/blob/main/coffee%20bkgrnd%20picture.png)
 
 ## Overview
-This project involved reviewing six months of coffee sales data for Maven Roasters, across three New York locations to identify peak sales periods, top-performing products, and business performance trends—delivering insights to support revenue growth and strategic decision-making. Excel for analysis and creating visuals.
+This project involved reviewing six months of coffee sales data for Maven Roasters, across three New York locations to identify peak sales periods, top-performing products, and business performance trends; delivering insights to support revenue growth and strategic decision-making. 
+Power BI was utilized to aunderstand , analyze and create clear, intuitive visuals that highlight and explain the business’s performance.
 
 ## Business Objectives
 The store manager wants to assess sales performance over the past six months and identify areas for operational improvement. The following questions guide this analysis:
