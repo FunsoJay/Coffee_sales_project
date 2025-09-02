@@ -13,6 +13,12 @@ The store manager wants to assess sales performance over the past six months and
 - Which products are sold most and least often?
 - Which drive the most revenue for the business?
 
+## Skills Demonstrated
+The analysis leveraged the following Power BI features:
+- Data Cleaning and Transformation(Power Query)
+- DAX(Data Analysis Expressions)
+- Data Visualization and Reporting
+
 
 ## Visualisation
 ![](https://github.com/FunsoJay/Coffee_sales_project/blob/main/Coffee%20sales%20project%20dashboard.png)
