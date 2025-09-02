@@ -1,4 +1,4 @@
-# Coffee Sales Project
+# Coffee Store Sales Project
 ![]()
 
 ## Overview
